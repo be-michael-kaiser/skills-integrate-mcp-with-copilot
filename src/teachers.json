@@ -1,0 +1,9 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123",
+    "role": "teacher",
+    "full_name": "School Administrator",
+    "email": "admin@mergington.edu"
+  }
+}
